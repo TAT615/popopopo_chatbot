@@ -17,5 +17,4 @@ def main():
 
 if __name__ == "__main__":
     if (count <= 10):
-        count = count + 1
         main()
