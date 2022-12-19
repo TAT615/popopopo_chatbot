@@ -34,7 +34,9 @@ jobs:
         run:
           # main.pyの実行
           python actions.py
+      - name: Run script
+        run:
+          # main.pyの実行
           python actions.py
-          python actions.py
-          python actions.py
-          python actions.py
+      
+          
