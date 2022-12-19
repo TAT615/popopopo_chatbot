@@ -1,6 +1,5 @@
 import json
-#import time
-#count = 0
+count = 0
 
 from linebot import LineBotApi
 from linebot.models import TextSendMessage
@@ -17,7 +16,6 @@ def main():
     line_bot_api.push_message(USER_ID, messages=messages)
 
 if __name__ == "__main__":
-#    if (count <= 10):
-    main()
-#        count += 1
-#        time.sleep(2)
+    if (count <= 10):
+        main()
+        count += 1
