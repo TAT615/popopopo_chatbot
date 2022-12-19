@@ -30,8 +30,424 @@ jobs:
           python -m pip install --upgrade pip
           # 必要なパッケージインストール
           pip install line-bot-sdk
-      - name: Run script
+      - name: Run script1
         run:
           # main.pyの実行
           python actions.py
+      - name: Run script2
+        run:
+          python actions.py
+      - name: Run script3
+        run:
+          python actions.py
+      - name: Run script4
+        run:
+          python actions.py
+      - name: Run script5
+        run:
+          python actions.py
+      - name: Run script6
+        run:
+          python actions.py
+      - name: Run script7
+        run:
+          python actions.py
+      - name: Run script8
+        run:
+          python actions.py
+      - name: Run script9
+        run:
+          python actions.py
+      - name: Run script10
+        run:
+          python actions.py
+      - name: Run script11
+        run:
+          python actions.py
+      - name: Run script12
+        run:
+          python actions.py
+      - name: Run script13
+        run:
+          python actions.py
+      - name: Run script14
+        run:
+          python actions.py
+      - name: Run script15
+        run:
+          python actions.py
+      - name: Run script16
+        run:
+          python actions.py
+      - name: Run script17
+        run:
+          python actions.py
+      - name: Run script18
+        run:
+          python actions.py
+      - name: Run script19
+        run:
+          python actions.py
+      - name: Run script20
+        run:
+          python actions.py
+      - name: Run script21
+        run:
+          python actions.py
+      - name: Run script22
+        run:
+          python actions.py
+      - name: Run script23
+        run:
+          python actions.py
+      - name: Run script24
+        run:
+          python actions.py
+      - name: Run script25
+        run:
+          python actions.py
+      - name: Run script26
+        run:
+          python actions.py
+      - name: Run script27
+        run:
+          python actions.py
+      - name: Run script28
+        run:
+          python actions.py
+      - name: Run script29
+        run:
+          python actions.py
+      - name: Run script30
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script40
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script50
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script60
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script70
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script80
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script90
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script100
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script120
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script130
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script140
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script
+        run:
+          python actions.py
+      - name: Run script150
+        run:
           python actions.py
