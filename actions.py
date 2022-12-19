@@ -21,4 +21,3 @@ def main():
 if __name__ == "__main__":
         for count in range (30):
             main()
-            print a
