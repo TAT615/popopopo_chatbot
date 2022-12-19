@@ -19,5 +19,5 @@ def main():
 if __name__ == "__main__":
     if (count <= 10):
         main()
-        count += 1:
+        count += 1
         time.sleep(2)
