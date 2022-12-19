@@ -1,8 +1,11 @@
 import json
+import datetime
 count = 0
 
 from linebot import LineBotApi
 from linebot.models import TextSendMessage
+
+a = datetime.datetime.now()
 
 file = open('info.json', 'r')
 info = json.load(file)
@@ -18,3 +21,4 @@ def main():
 if __name__ == "__main__":
         for count in range (30):
             main()
+            print a
