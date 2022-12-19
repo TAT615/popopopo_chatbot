@@ -16,5 +16,5 @@ def main():
     line_bot_api.push_message(USER_ID, messages=messages)
 
 if __name__ == "__main__":
-        for count in range (10):
+        for count in range (30):
             main()
